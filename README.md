@@ -9,7 +9,7 @@ I am sorry I could not do it as requested, but Java is barely the most functiona
 
 I wanted to create a C# replica, and realized in between that I could have done all of it using Selenium IDE.
 
-But this is not an assessment of me using the Selenium IDE. It wouldn't have proven I could written all of the code by hand in C#.
+But this is not an assessment of me using the Selenium IDE. It wouldn't have proven I could have written all of the code by hand in C#.
 
 I understand the concepts are the same yet the approach would be a bit different. I understand that, but I don't want to say I know how to use C#.
 
